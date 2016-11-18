@@ -21,9 +21,12 @@ Like Data from the Goonies, Colin can equip himself with shoes that can add abil
 * Spring Shoes - double jump height
 * Invulnerability 
 * Fireball - colin kicks a magical firey football
+
 ### Lives
 Colin get 6 lives - naturally
+
 ### Health
 If Colin gets hit by an enemy morelock, or falls too far he looses health.  If his health reaches 0 he dies.  He can recover health by eating Mashed Potato and ketchup - these are left by enemeies that he successfully kills.  Some enemies won't be killable (unless equipped with the power boots) - in that case jumping on an enemy will stun them, but not kill them.  Some enemies will be destroyed by jumping on them, - and these are the enemies that will drop food.  Colin can store food in his inventory - whether that should be all food that can't be used, or limited to only x slots for food will be determined by playability.  If colin is injured and he has food in his inventory then this can be dropped by the user , and the food item will appear in front of Colin to collect.
+
 ### Shops
 Colin can collect coins from jumping on morlocks and warlocks, and these coins can be exchanged at the trading post.  There is one trading post that has to be unlocked, but can be accessed from the over world once unlocked.  Items can be bought or sold directly into Colin's inventory.
