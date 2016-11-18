@@ -30,3 +30,34 @@ If Colin gets hit by an enemy morelock, or falls too far he looses health.  If h
 
 ### Shops
 Colin can collect coins from jumping on morlocks and warlocks, and these coins can be exchanged at the trading post.  There is one trading post that has to be unlocked, but can be accessed from the over world once unlocked.  Items can be bought or sold directly into Colin's inventory.
+
+### Seuss 
+Initially I wrote a teaser for thies game in the style of Dr Seuss : 
+
+Colin baker - 6th of "The Docs's"
+Has quite an abundant collection of Crocs's
+(which he wears round the house with fetching white sock's)
+To keep then safe he kept them in boxes
+Sealed with sticky tape, and locked up with locks'es
+
+But the boxes with lockss 
+containing Colin's Croc's 
+have been taken by warlocks'es
+from Colin's Strongboxes.
+
+the chief of the warlocks
+has an army of morlocks
+that were stronger than oxes
+with tough skin like rock'es
+
+So outfox the warlocks's
+recover the shoeboxes
+restore the Croc's
+to the doc's strongboxes
+
+ --or --
+
+So outfox the warlocks's
+get past the Morlocks'es 
+recover the shoeboxes
+and restore the doc's Croc'es
